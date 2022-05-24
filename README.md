@@ -1,3 +1,4 @@
 # LensStudio-LightBoost
-Material Subgraph for Lens Studio - makes shadows darker, and highlights lighter.
-Shadow Receiving needs to be enabled the mesh!
+A subgraph for Lens Studio's Material Editor.   
+Makes lights look more vibrant by increasing the shadow/light contrast on the mesh.  
+Shadow Receiving needs to be enabled the mesh.
